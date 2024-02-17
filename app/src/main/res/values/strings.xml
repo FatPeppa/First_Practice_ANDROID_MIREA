@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First_Practice_MIREA</string>
+    <string name="button1_text">Go to second activity</string>
+    <string name="textView_text">Попов Даниил Владимирович</string>
+</resources>
