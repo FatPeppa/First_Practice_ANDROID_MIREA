@@ -126,10 +126,4 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onResume Debug");
         Log.v(TAG, "onResume Verbose");
     }
-
-    public void button_exit(View view) {
-        //onStop();
-        onDestroy();
-        System.exit(0);
-    }
 }
